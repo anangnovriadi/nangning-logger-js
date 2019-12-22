@@ -1,0 +1,28 @@
+{
+  "name": "nangning-logger-js",
+  "version": "1.0.0",
+  "description": "Logger with js",
+  "main": "index.js",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anangnovriadi/nangning-logger-js.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "logger"
+  ],
+  "author": "anangnovriadi <anangnov99@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anangnovriadi/nangning-logger-js/issues"
+  },
+  "homepage": "https://github.com/anangnovriadi/nangning-logger-js#readme"
+}
