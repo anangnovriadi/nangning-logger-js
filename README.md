@@ -1,5 +1,5 @@
 # nangning-logger-js
-This sample logger with winston module.
+This is sample logger with winston module.
 
 ## Installation
 ```
